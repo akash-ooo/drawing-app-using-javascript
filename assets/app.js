@@ -139,3 +139,4 @@ function drawTriangle(e) {
     ctx.closePath();
     fillColor.checked ? ctx.fill() : ctx.stroke();
 }
+
